@@ -1,6 +1,6 @@
-# Backend and Ontology Agent Flow — Simple Explanation
+# Backend and Ontology Agent Flow
 
-This file explains the complete application flow in simple language, starting
+This file explains the complete application flow, starting
 when the page opens and ending when the generated T-Box ontology appears on the
 screen.
 
