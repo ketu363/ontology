@@ -1,4 +1,4 @@
-Yes. The important point is: clicking **Save Ontology to BigQuery** currently stores only the latest **TBox ontology**—classes, attributes, relationships, and reasoning. It does not send the CSV files or ABox records.
+clicking **Save Ontology to BigQuery** currently stores only the latest **TBox ontology**—classes, attributes, relationships, and reasoning. It does not send the CSV files or ABox records.
 
 ## Complete execution flow
 
