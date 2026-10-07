@@ -1,4 +1,4 @@
-# BigQuery Save Flow — Simple Explanation
+# BigQuery Save Flow
 
 This file explains everything that happens after the user clicks **Save Dataset
 & Ontology to BigQuery**.
